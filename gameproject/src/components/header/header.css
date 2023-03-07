@@ -1,0 +1,25 @@
+.navbar{
+    height: 50px;
+    width: 100%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.icon10x{
+height: 10px;
+width: 50px;
+color: blueviolet;
+display: flex;
+
+
+}
+.icon{
+    height: 20px;
+    width: 50px;
+    color: blueviolet;
+
+}
+.i{
+    margin-right: 50px;
+}
